@@ -35,4 +35,4 @@ There is a notebook available here to showcase work related to the above questio
 
 
 ## Results<a name="results"></a>
-The main observations of the code are published [here](https://medium.com/@susmitha.gudapati/a-data-driven-story-of-airbnb-in-boston-7a27c5267d38).
+The main observations of the code are published [here](https://iscienceonline.wordpress.com/2019/09/01/airbnb-boston-data-science-project-blog/).
